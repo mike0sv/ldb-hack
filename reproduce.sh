@@ -9,6 +9,7 @@ AWS_PROFILE=hackathon-team-6 ldb index s3://ldb-hackathon-team-6/clean-up/val --
 AWS_PROFILE=hackathon-team-6 ldb index s3://ldb-hackathon-team-6/clean-up/labelbook --format annot -p single-file=true
 
 # personal images
+AWS_PROFILE=hackathon-team-6 ldb index s3://ldb-hackathon-team-6/data-lakes/serge --format infer --add-tag serge
 AWS_PROFILE=hackathon-team-6 ldb index s3://ldb-hackathon-team-6/domas --format infer --add-tag domas
 AWS_PROFILE=hackathon-team-6 ldb index s3://ldb-hackathon-team-6/data-lakes/oded --format infer --add-tag oded
 
