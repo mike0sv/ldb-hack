@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 
+import json
+import os.path
 import math
 import shutil
 import subprocess
-import collections
 
 obj_classes = ["croissant", "muffin", "dog", "cat"]
 split_weights = {"train": 0.6, "val": 0.2, "labelbook": 0.2}
@@ -17,7 +18,7 @@ def _echo_check_output(cmd):
 
 
 def reset_split_datasets():
-    print("Resetting train/va/labelbook tags")
+    print("Resetting train/val/labelbook tags")
     cmd = "ldb tag ds:root -r train,val,labelbook"
     _echo_check_output(cmd)
 
@@ -52,11 +53,25 @@ def instantiate_datasets():
     """
     This will override ./dataset contents !!
     """
+
+    def sort_dataset(path):
+        with open(path, "r") as new:
+            new_data = json.load(new)
+
+        with open(path, "w") as old:
+            json.dump(sorted(new_data, key=lambda x: x["data-object-info"]["path"]), old, indent=2)
+        print(f"{path} dataset sorted")
+
     for split in split_weights:
-        shutil.rmtree(f"dataset/{split}")
+        split_ds_path = f"dataset/{split}"
+        shutil.rmtree(split_ds_path)
         cmd = f"ldb instantiate ds:root --tag {split} --format annot " \
-              f"--param single-file=true --target dataset/{split}"
+              f"--param single-file=true --target {split_ds_path}"
         _echo_check_output(cmd)
+
+        # sort it
+        dataset_annotation_file = os.path.join(split_ds_path, "dataset.json")
+        sort_dataset(dataset_annotation_file)
 
 
 def main():
