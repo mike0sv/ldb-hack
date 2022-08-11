@@ -4,17 +4,71 @@
       "label": "cat"
     },
     "data-object-info": {
-      "md5": "0039fead57483bddb12aa747f63da4db",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/3864-25852-19532-0039fead57483bddb12aa747f63da4db.jpeg"
+      "md5": "909c3ffa1365b3deeb76c9543d6879ec",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/11247-12372-26486-909c3ffa1365b3deeb76c9543d6879ec.jpeg"
     }
   },
   {
     "annotation": {
-      "label": "dog"
+      "label": "cat"
     },
     "data-object-info": {
-      "md5": "0081116ffa28f94a3437f5229b1ab3d7",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/19976-13232-19579-0081116ffa28f94a3437f5229b1ab3d7.jpeg"
+      "md5": "d1b574724ea51859416fae20b89ed840",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/12241-18553-7192-d1b574724ea51859416fae20b89ed840.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "cat"
+    },
+    "data-object-info": {
+      "md5": "a599d743939ae411c2ee95f24b941016",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/12348-5168-9341-a599d743939ae411c2ee95f24b941016.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "cat"
+    },
+    "data-object-info": {
+      "md5": "8a0d293a4c532f4bc27863634cf9d019",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/12565-14267-23210-8a0d293a4c532f4bc27863634cf9d019.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "cat"
+    },
+    "data-object-info": {
+      "md5": "d5f272e4204d9ec7d12389c250d9dcf0",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/15422-7479-22552-d5f272e4204d9ec7d12389c250d9dcf0.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "cat"
+    },
+    "data-object-info": {
+      "md5": "896dd110e60c2d639829eeff871ff55a",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/15703-13595-29636-896dd110e60c2d639829eeff871ff55a.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "cat"
+    },
+    "data-object-info": {
+      "md5": "98cc6352504be7ae1dcc9450afb284a6",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/16864-6398-14980-98cc6352504be7ae1dcc9450afb284a6.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "cat"
+    },
+    "data-object-info": {
+      "md5": "8308551f35430f0e6e8ef3646554be2e",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/2047-23347-2453-8308551f35430f0e6e8ef3646554be2e.jpeg"
     }
   },
   {
@@ -28,317 +82,11 @@
   },
   {
     "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "0333af15059559734ca2b2ce4a338123",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/14665-8799-2463-0333af15059559734ca2b2ce4a338123.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "042400a8549adbc9807fa4a873687563",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/6162-26345-3783-042400a8549adbc9807fa4a873687563.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "042775cdeb6cc6b267fa10d4e23ac61b",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/11371-6487-31152-042775cdeb6cc6b267fa10d4e23ac61b.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "09cd23091ac5637ea86f02be6198ac20",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/2674-1787-11200-09cd23091ac5637ea86f02be6198ac20.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "05b45ef0e8c4f8782bbf6eb232cc836f",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/27425-17009-1430-05b45ef0e8c4f8782bbf6eb232cc836f.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "138dccd907ac96ca58bd4fb62849d400",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/4901-17025-19336-138dccd907ac96ca58bd4fb62849d400.jpeg"
-    }
-  },
-  {
-    "annotation": {
       "label": "cat"
     },
     "data-object-info": {
-      "md5": "19a1445f3646778ef776b13e2ff2599c",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/3938-16980-25378-19a1445f3646778ef776b13e2ff2599c.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "1020e7b97be55c9c81a35ccef8d43191",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/15698-11889-3265-1020e7b97be55c9c81a35ccef8d43191.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "23dc113e179a1c83b344cbf77f895eba",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/18927-30956-17198-23dc113e179a1c83b344cbf77f895eba.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "220b2ece969db087300200b31a2984f8",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/19141-6159-3096-220b2ece969db087300200b31a2984f8.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "258aec1d6df266c26fd2a7ea5a9663d4",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/9433-15522-17571-258aec1d6df266c26fd2a7ea5a9663d4.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "2cf18de672528c77117ec61485f6ed70",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/2195-23792-11476-2cf18de672528c77117ec61485f6ed70.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "28980db74ea07fc760a6a8d34e280c80",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/18016-23394-19955-28980db74ea07fc760a6a8d34e280c80.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "390c781acd589b5c16b3368aeb3a773c",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/26784-24103-32649-390c781acd589b5c16b3368aeb3a773c.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "26e3c9e51a01676a68ead2c29503aa6f",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/31718-28891-16887-26e3c9e51a01676a68ead2c29503aa6f.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "33d958074379353df3787f266e2c2e94",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/18819-2302-113-33d958074379353df3787f266e2c2e94.webp"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "4b9dc579209f134b152f5e626ac6c18e",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/3307-9002-22452-4b9dc579209f134b152f5e626ac6c18e.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "2b57ca42ec5fb98ef8f8f8a0ba790786",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/844-1323-13026-2b57ca42ec5fb98ef8f8f8a0ba790786.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "3409d013b116c57cdc74c4360b5f4e88",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/9195-5738-13664-3409d013b116c57cdc74c4360b5f4e88.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "3b52bf4777bf676ee7db6bb7c8de75b5",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/29280-29883-18867-3b52bf4777bf676ee7db6bb7c8de75b5.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "3fe4cba28db8779e649e4257ad319298",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/30743-14375-15875-3fe4cba28db8779e649e4257ad319298.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "36604297c7fa95f9e7e3094fe4f8a4bc",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/21134-24623-8419-36604297c7fa95f9e7e3094fe4f8a4bc.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "66ce718a3ac4c3a9b443741a9da71f03",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/10866-17597-20220-66ce718a3ac4c3a9b443741a9da71f03.png"
-    }
-  },
-  {
-    "annotation": {
-      "label": "cat"
-    },
-    "data-object-info": {
-      "md5": "468b4f10387303c659d19f9f6b23932a",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/27219-24620-19806-468b4f10387303c659d19f9f6b23932a.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "6aab8c01df0c60bf98fcae883e459d27",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/25048-23884-25425-6aab8c01df0c60bf98fcae883e459d27.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "63cdebfd44f515c74d1edce4f1e2e332",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/24735-7340-18522-63cdebfd44f515c74d1edce4f1e2e332.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "6d719aa0a42fc254d02477300fda0394",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/12962-1326-7465-6d719aa0a42fc254d02477300fda0394.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "37c9efe4110318703cd9534556a8a857",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/3117-20041-31900-37c9efe4110318703cd9534556a8a857.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "68b243dce5649fb8459f1752f9ebf240",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/13710-30025-13943-68b243dce5649fb8459f1752f9ebf240.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "63cb776b17071bba588fc32b239f63fa",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/32419-14595-18656-63cb776b17071bba588fc32b239f63fa.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "7244fa6f7a672973dabe574a3eb6d81a",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/8804-19941-28792-7244fa6f7a672973dabe574a3eb6d81a.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "44e83d5ae948cd8aa13ec425669c768c",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/3084-18828-7838-44e83d5ae948cd8aa13ec425669c768c.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "cat"
-    },
-    "data-object-info": {
-      "md5": "76263ab2f580b6aadd755a298db2f7f7",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/30710-23205-20195-76263ab2f580b6aadd755a298db2f7f7.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "6f3bb2eccdff5b53b4a5e8153625da0d",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/2309-15580-15688-6f3bb2eccdff5b53b4a5e8153625da0d.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "545e8a7c4d88741b84768e023d5eab59",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/7776-19755-12897-545e8a7c4d88741b84768e023d5eab59.jpeg"
+      "md5": "d60c0512fc71146d0d58bef310793607",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/22047-25305-11106-d60c0512fc71146d0d58bef310793607.jpeg"
     }
   },
   {
@@ -352,74 +100,74 @@
   },
   {
     "annotation": {
-      "label": "dog"
+      "label": "cat"
     },
     "data-object-info": {
-      "md5": "6af7e73fe856e663d1ee30df1d16b336",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/25075-15894-5090-6af7e73fe856e663d1ee30df1d16b336.jpeg"
+      "md5": "bc7ca4a05166110400c647b6629117b1",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/23854-27670-29307-bc7ca4a05166110400c647b6629117b1.jpeg"
     }
   },
   {
     "annotation": {
-      "label": "croissant"
+      "label": "cat"
     },
     "data-object-info": {
-      "md5": "78669568f91e8733971953ff6cd814b3",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/25841-24298-16793-78669568f91e8733971953ff6cd814b3.jpeg"
+      "md5": "f849f8172f657ddbc369a11b9b32cddd",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/23866-4908-26691-f849f8172f657ddbc369a11b9b32cddd.jpeg"
     }
   },
   {
     "annotation": {
-      "label": "croissant"
+      "label": "cat"
     },
     "data-object-info": {
-      "md5": "7a1c288638da726a71a55f74e6768600",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/32611-30562-32035-7a1c288638da726a71a55f74e6768600.jpeg"
+      "md5": "c032d0c2435705d360e77ae04130296f",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/25186-5128-1496-c032d0c2435705d360e77ae04130296f.jpeg"
     }
   },
   {
     "annotation": {
-      "label": "croissant"
+      "label": "cat"
     },
     "data-object-info": {
-      "md5": "75ee0d7c586ef9fb10a75a841a152df1",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/11719-17023-8788-75ee0d7c586ef9fb10a75a841a152df1.jpeg"
+      "md5": "addfb29ee5dc3ddfe0380bf73ea797ad",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/26000-27221-30945-addfb29ee5dc3ddfe0380bf73ea797ad.jpeg"
     }
   },
   {
     "annotation": {
-      "label": "muffin"
+      "label": "cat"
     },
     "data-object-info": {
-      "md5": "7d973e8b82625c6421418d9482d198ba",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/1779-9700-21685-7d973e8b82625c6421418d9482d198ba.jpeg"
+      "md5": "468b4f10387303c659d19f9f6b23932a",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/27219-24620-19806-468b4f10387303c659d19f9f6b23932a.jpeg"
     }
   },
   {
     "annotation": {
-      "label": "muffin"
+      "label": "cat"
     },
     "data-object-info": {
-      "md5": "7b11b6c10e77000a71997bc7ecbd9bf8",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/12280-28739-9882-7b11b6c10e77000a71997bc7ecbd9bf8.jpeg"
+      "md5": "d5831b92392488a14906fe2b03d27c41",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/27762-17961-17070-d5831b92392488a14906fe2b03d27c41.jpeg"
     }
   },
   {
     "annotation": {
-      "label": "dog"
+      "label": "cat"
     },
     "data-object-info": {
-      "md5": "7f72db663c5df13de9cace21e1e9f2a2",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/25380-16775-4154-7f72db663c5df13de9cace21e1e9f2a2.jpeg"
+      "md5": "9f8d85207f0d1257951dda7b8ec8ccbc",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/28562-6689-9777-9f8d85207f0d1257951dda7b8ec8ccbc.jpeg"
     }
   },
   {
     "annotation": {
-      "label": "muffin"
+      "label": "cat"
     },
     "data-object-info": {
-      "md5": "5ae1ef3461628f193b22bc7583a00f78",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/24113-18612-6464-5ae1ef3461628f193b22bc7583a00f78.jpeg"
+      "md5": "76263ab2f580b6aadd755a298db2f7f7",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/30710-23205-20195-76263ab2f580b6aadd755a298db2f7f7.jpeg"
     }
   },
   {
@@ -445,53 +193,8 @@
       "label": "cat"
     },
     "data-object-info": {
-      "md5": "909c3ffa1365b3deeb76c9543d6879ec",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/11247-12372-26486-909c3ffa1365b3deeb76c9543d6879ec.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "763d46319f7a27b2a7d3adc181beaa2b",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/11904-31660-19050-763d46319f7a27b2a7d3adc181beaa2b.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "7f4f05a924e677893c90fcadd30f52b0",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/18216-20581-19937-7f4f05a924e677893c90fcadd30f52b0.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "9a81bb8423fcc89108218a98861fc802",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/5680-12332-5800-9a81bb8423fcc89108218a98861fc802.png"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "99459078837f93e380c55a0a50854d1e",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/13305-3571-13238-99459078837f93e380c55a0a50854d1e.png"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "7000e310939f828645edae3657d06044",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/14331-29482-22779-7000e310939f828645edae3657d06044.jpeg"
+      "md5": "feee872cd626d841445a294df2978525",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/32226-6062-10359-feee872cd626d841445a294df2978525.jpeg"
     }
   },
   {
@@ -499,17 +202,8 @@
       "label": "cat"
     },
     "data-object-info": {
-      "md5": "896dd110e60c2d639829eeff871ff55a",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/15703-13595-29636-896dd110e60c2d639829eeff871ff55a.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "9d94c474150a0b7e6f937ccd9a81cc1f",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/15126-16404-21429-9d94c474150a0b7e6f937ccd9a81cc1f.jpeg"
+      "md5": "0039fead57483bddb12aa747f63da4db",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/3864-25852-19532-0039fead57483bddb12aa747f63da4db.jpeg"
     }
   },
   {
@@ -517,287 +211,8 @@
       "label": "cat"
     },
     "data-object-info": {
-      "md5": "8a0d293a4c532f4bc27863634cf9d019",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/12565-14267-23210-8a0d293a4c532f4bc27863634cf9d019.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "835ccbff817dc02879810bb4391c59ca",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/8155-28114-2315-835ccbff817dc02879810bb4391c59ca.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "90cea1e477f90cfee7baa1d2fc591858",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/30191-20860-29882-90cea1e477f90cfee7baa1d2fc591858.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "cat"
-    },
-    "data-object-info": {
-      "md5": "8308551f35430f0e6e8ef3646554be2e",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/2047-23347-2453-8308551f35430f0e6e8ef3646554be2e.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "99c0784757a6a2eda51ce4f8f9915802",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/27061-17303-12913-99c0784757a6a2eda51ce4f8f9915802.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "cat"
-    },
-    "data-object-info": {
-      "md5": "a57a15a9f505231c2806e7c8882e4ce8",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/9289-21578-6094-a57a15a9f505231c2806e7c8882e4ce8.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "cat"
-    },
-    "data-object-info": {
-      "md5": "9f8d85207f0d1257951dda7b8ec8ccbc",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/28562-6689-9777-9f8d85207f0d1257951dda7b8ec8ccbc.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "a74e0147966048f4376e4d2339c966b5",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/30773-17780-10424-a74e0147966048f4376e4d2339c966b5.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "cat"
-    },
-    "data-object-info": {
-      "md5": "addfb29ee5dc3ddfe0380bf73ea797ad",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/26000-27221-30945-addfb29ee5dc3ddfe0380bf73ea797ad.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "a04838242f32501d8e71c4f029b03934",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/24023-30767-768-a04838242f32501d8e71c4f029b03934.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "cat"
-    },
-    "data-object-info": {
-      "md5": "a599d743939ae411c2ee95f24b941016",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/12348-5168-9341-a599d743939ae411c2ee95f24b941016.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "77aba293ba1b33ac63bd9ed642ae1c17",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/29187-6591-19804-77aba293ba1b33ac63bd9ed642ae1c17.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "cat"
-    },
-    "data-object-info": {
-      "md5": "9f91dbc400405535db0c75e21466bfe8",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/4765-289-30603-9f91dbc400405535db0c75e21466bfe8.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "7f8c292f1fd890bc8ca94b9ede22f28d",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/2111-10488-1915-7f8c292f1fd890bc8ca94b9ede22f28d.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "9fc527abf7ba5024fbf299592d218114",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/29795-31371-18693-9fc527abf7ba5024fbf299592d218114.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "cat"
-    },
-    "data-object-info": {
-      "md5": "857738948956e0138a7f6797cc60d638",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/4210-17129-7440-857738948956e0138a7f6797cc60d638.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "b610d082dfb120f545955a15e5625f15",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/4431-8576-27058-b610d082dfb120f545955a15e5625f15.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "a594e96b1e06216f60972e20831bee59",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/11069-2819-3066-a594e96b1e06216f60972e20831bee59.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "9c36fcd3a7726d93534b9680a6f304df",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/5406-4084-8878-9c36fcd3a7726d93534b9680a6f304df.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "9feb7d1e96feb92c2c041b66482df54c",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/24796-32229-15857-9feb7d1e96feb92c2c041b66482df54c.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "cat"
-    },
-    "data-object-info": {
-      "md5": "98cc6352504be7ae1dcc9450afb284a6",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/16864-6398-14980-98cc6352504be7ae1dcc9450afb284a6.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "b4f6ef1551e11dea915e123121e27eba",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/23461-2893-12396-b4f6ef1551e11dea915e123121e27eba.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "c0a3bfa8c95dfe924effbe61f050484e",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/21354-12350-2180-c0a3bfa8c95dfe924effbe61f050484e.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "b314fcc5920a93f3c1e890232c9f1319",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/2382-20688-14854-b314fcc5920a93f3c1e890232c9f1319.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "cat"
-    },
-    "data-object-info": {
-      "md5": "bc7ca4a05166110400c647b6629117b1",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/23854-27670-29307-bc7ca4a05166110400c647b6629117b1.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "b821b20f6444524bb6cb10283eaf95ec",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/17466-19470-17164-b821b20f6444524bb6cb10283eaf95ec.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "d10bd095f5953c7f56dcc52c317589d5",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/7592-19016-19406-d10bd095f5953c7f56dcc52c317589d5.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "d0882669f105513efa6cb1604206f63d",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/7584-6751-24617-d0882669f105513efa6cb1604206f63d.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "d588ce157b56fef44ebbeecbc1a8c12f",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/6809-26130-2195-d588ce157b56fef44ebbeecbc1a8c12f.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "cfb7c3b492db47837e6c9cc1fbb181fc",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/12599-4216-31659-cfb7c3b492db47837e6c9cc1fbb181fc.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "cat"
-    },
-    "data-object-info": {
-      "md5": "c6dbbfba3138b58f15196446d73d8c17",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/9416-13336-2243-c6dbbfba3138b58f15196446d73d8c17.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "ca36d0d5a936c9ca7f60e4dc473ef645",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/25861-5232-12702-ca36d0d5a936c9ca7f60e4dc473ef645.jpeg"
+      "md5": "19a1445f3646778ef776b13e2ff2599c",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/3938-16980-25378-19a1445f3646778ef776b13e2ff2599c.jpeg"
     }
   },
   {
@@ -814,26 +229,8 @@
       "label": "cat"
     },
     "data-object-info": {
-      "md5": "d60c0512fc71146d0d58bef310793607",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/22047-25305-11106-d60c0512fc71146d0d58bef310793607.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "c12387bfe88943d4d25e3a79dcc15407",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/30875-10094-3713-c12387bfe88943d4d25e3a79dcc15407.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "bb5f06c64a142b33cda17aaa47586383",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/9909-23559-20329-bb5f06c64a142b33cda17aaa47586383.jpeg"
+      "md5": "857738948956e0138a7f6797cc60d638",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/4210-17129-7440-857738948956e0138a7f6797cc60d638.jpeg"
     }
   },
   {
@@ -841,98 +238,8 @@
       "label": "cat"
     },
     "data-object-info": {
-      "md5": "d5f272e4204d9ec7d12389c250d9dcf0",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/15422-7479-22552-d5f272e4204d9ec7d12389c250d9dcf0.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "cat"
-    },
-    "data-object-info": {
-      "md5": "d1b574724ea51859416fae20b89ed840",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/12241-18553-7192-d1b574724ea51859416fae20b89ed840.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "c743b70a8bf89457c8773dfb7516ed46",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/27383-6567-21980-c743b70a8bf89457c8773dfb7516ed46.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "cat"
-    },
-    "data-object-info": {
-      "md5": "d5831b92392488a14906fe2b03d27c41",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/27762-17961-17070-d5831b92392488a14906fe2b03d27c41.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "e4442801e0e365d12b6aacbd30edfcfa",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/28308-15318-28439-e4442801e0e365d12b6aacbd30edfcfa.png"
-    }
-  },
-  {
-    "annotation": {
-      "label": "croissant"
-    },
-    "data-object-info": {
-      "md5": "e117a6984223059837297ff6914384a3",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/32211-203-5813-e117a6984223059837297ff6914384a3.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "9e7bfd76fd82a146ccc2003959996721",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/11073-3514-14538-9e7bfd76fd82a146ccc2003959996721.png"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "e6fd99b65128fd0c7744dab9e6a5246e",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/12930-7920-25387-e6fd99b65128fd0c7744dab9e6a5246e.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "d0501825bdd51b24a3572ea30a420156",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/2235-19898-23783-d0501825bdd51b24a3572ea30a420156.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "dog"
-    },
-    "data-object-info": {
-      "md5": "e7885af3c3b414a1e5a578ac02ec303c",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/5917-16133-7679-e7885af3c3b414a1e5a578ac02ec303c.jpeg"
-    }
-  },
-  {
-    "annotation": {
-      "label": "muffin"
-    },
-    "data-object-info": {
-      "md5": "cc2ac406acdab6a5fb5094f29fc59d3b",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/23163-1145-20581-cc2ac406acdab6a5fb5094f29fc59d3b.jpeg"
+      "md5": "9f91dbc400405535db0c75e21466bfe8",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/4765-289-30603-9f91dbc400405535db0c75e21466bfe8.jpeg"
     }
   },
   {
@@ -949,8 +256,8 @@
       "label": "cat"
     },
     "data-object-info": {
-      "md5": "f849f8172f657ddbc369a11b9b32cddd",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/23866-4908-26691-f849f8172f657ddbc369a11b9b32cddd.jpeg"
+      "md5": "a57a15a9f505231c2806e7c8882e4ce8",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/9289-21578-6094-a57a15a9f505231c2806e7c8882e4ce8.jpeg"
     }
   },
   {
@@ -958,8 +265,8 @@
       "label": "cat"
     },
     "data-object-info": {
-      "md5": "c032d0c2435705d360e77ae04130296f",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/25186-5128-1496-c032d0c2435705d360e77ae04130296f.jpeg"
+      "md5": "c6dbbfba3138b58f15196446d73d8c17",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/9416-13336-2243-c6dbbfba3138b58f15196446d73d8c17.jpeg"
     }
   },
   {
@@ -967,44 +274,197 @@
       "label": "croissant"
     },
     "data-object-info": {
-      "md5": "e3e3e7bfc59689d93dc3fd98938727e7",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/4585-23223-21972-e3e3e7bfc59689d93dc3fd98938727e7.jpeg"
+      "md5": "a594e96b1e06216f60972e20831bee59",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/11069-2819-3066-a594e96b1e06216f60972e20831bee59.jpeg"
     }
   },
   {
     "annotation": {
-      "label": "dog"
+      "label": "croissant"
     },
     "data-object-info": {
-      "md5": "db7905d84960e3c47e098c2efaa1335e",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/8672-514-20446-db7905d84960e3c47e098c2efaa1335e.jpeg"
+      "md5": "75ee0d7c586ef9fb10a75a841a152df1",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/11719-17023-8788-75ee0d7c586ef9fb10a75a841a152df1.jpeg"
     }
   },
   {
     "annotation": {
-      "label": "dog"
+      "label": "croissant"
     },
     "data-object-info": {
-      "md5": "f780e582f9dc1dddb2e17a4b3fdda076",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/18473-12055-4335-f780e582f9dc1dddb2e17a4b3fdda076.jpeg"
+      "md5": "cfb7c3b492db47837e6c9cc1fbb181fc",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/12599-4216-31659-cfb7c3b492db47837e6c9cc1fbb181fc.jpeg"
     }
   },
   {
     "annotation": {
-      "label": "muffin"
+      "label": "croissant"
     },
     "data-object-info": {
-      "md5": "d1dc5638356b452a559db6a28718c34f",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/28594-6478-26956-d1dc5638356b452a559db6a28718c34f.jpeg"
+      "md5": "68b243dce5649fb8459f1752f9ebf240",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/13710-30025-13943-68b243dce5649fb8459f1752f9ebf240.jpeg"
     }
   },
   {
     "annotation": {
-      "label": "muffin"
+      "label": "croissant"
     },
     "data-object-info": {
-      "md5": "f36d00ba84c5df52bbcaffb0816db7aa",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/7085-7142-8273-f36d00ba84c5df52bbcaffb0816db7aa.jpeg"
+      "md5": "1020e7b97be55c9c81a35ccef8d43191",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/15698-11889-3265-1020e7b97be55c9c81a35ccef8d43191.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "b821b20f6444524bb6cb10283eaf95ec",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/17466-19470-17164-b821b20f6444524bb6cb10283eaf95ec.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "33d958074379353df3787f266e2c2e94",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/18819-2302-113-33d958074379353df3787f266e2c2e94.webp"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "220b2ece969db087300200b31a2984f8",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/19141-6159-3096-220b2ece969db087300200b31a2984f8.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "2cf18de672528c77117ec61485f6ed70",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/2195-23792-11476-2cf18de672528c77117ec61485f6ed70.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "b4f6ef1551e11dea915e123121e27eba",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/23461-2893-12396-b4f6ef1551e11dea915e123121e27eba.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "63cdebfd44f515c74d1edce4f1e2e332",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/24735-7340-18522-63cdebfd44f515c74d1edce4f1e2e332.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "78669568f91e8733971953ff6cd814b3",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/25841-24298-16793-78669568f91e8733971953ff6cd814b3.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "c743b70a8bf89457c8773dfb7516ed46",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/27383-6567-21980-c743b70a8bf89457c8773dfb7516ed46.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "77aba293ba1b33ac63bd9ed642ae1c17",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/29187-6591-19804-77aba293ba1b33ac63bd9ed642ae1c17.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "b8b5136c472ab52839ab9b7527026ab9",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/29256-24869-1762-b8b5136c472ab52839ab9b7527026ab9.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "90cea1e477f90cfee7baa1d2fc591858",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/30191-20860-29882-90cea1e477f90cfee7baa1d2fc591858.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "44e83d5ae948cd8aa13ec425669c768c",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/3084-18828-7838-44e83d5ae948cd8aa13ec425669c768c.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "37c9efe4110318703cd9534556a8a857",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/3117-20041-31900-37c9efe4110318703cd9534556a8a857.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "e117a6984223059837297ff6914384a3",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/32211-203-5813-e117a6984223059837297ff6914384a3.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "63cb776b17071bba588fc32b239f63fa",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/32419-14595-18656-63cb776b17071bba588fc32b239f63fa.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "7a1c288638da726a71a55f74e6768600",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/32611-30562-32035-7a1c288638da726a71a55f74e6768600.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "4b9dc579209f134b152f5e626ac6c18e",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/3307-9002-22452-4b9dc579209f134b152f5e626ac6c18e.jpeg"
     }
   },
   {
@@ -1018,29 +478,29 @@
   },
   {
     "annotation": {
-      "label": "muffin"
+      "label": "croissant"
     },
     "data-object-info": {
-      "md5": "dcb7174d11e1a6f1f1da5c5ad01554a3",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/17475-11205-19876-dcb7174d11e1a6f1f1da5c5ad01554a3.jpeg"
+      "md5": "e3e3e7bfc59689d93dc3fd98938727e7",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/4585-23223-21972-e3e3e7bfc59689d93dc3fd98938727e7.jpeg"
     }
   },
   {
     "annotation": {
-      "label": "dog"
+      "label": "croissant"
     },
     "data-object-info": {
-      "md5": "ee6c694eb4c555b3f60bc9427df7423c",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/1070-20833-2376-ee6c694eb4c555b3f60bc9427df7423c.jpeg"
+      "md5": "138dccd907ac96ca58bd4fb62849d400",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/4901-17025-19336-138dccd907ac96ca58bd4fb62849d400.jpeg"
     }
   },
   {
     "annotation": {
-      "label": "cat"
+      "label": "croissant"
     },
     "data-object-info": {
-      "md5": "feee872cd626d841445a294df2978525",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/cat/32226-6062-10359-feee872cd626d841445a294df2978525.jpeg"
+      "md5": "9a81bb8423fcc89108218a98861fc802",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/5680-12332-5800-9a81bb8423fcc89108218a98861fc802.png"
     }
   },
   {
@@ -1057,8 +517,233 @@
       "label": "croissant"
     },
     "data-object-info": {
-      "md5": "b8b5136c472ab52839ab9b7527026ab9",
-      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/29256-24869-1762-b8b5136c472ab52839ab9b7527026ab9.jpeg"
+      "md5": "7244fa6f7a672973dabe574a3eb6d81a",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/8804-19941-28792-7244fa6f7a672973dabe574a3eb6d81a.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "258aec1d6df266c26fd2a7ea5a9663d4",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/9433-15522-17571-258aec1d6df266c26fd2a7ea5a9663d4.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "croissant"
+    },
+    "data-object-info": {
+      "md5": "bb5f06c64a142b33cda17aaa47586383",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/croissant/9909-23559-20329-bb5f06c64a142b33cda17aaa47586383.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "ee6c694eb4c555b3f60bc9427df7423c",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/1070-20833-2376-ee6c694eb4c555b3f60bc9427df7423c.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "66ce718a3ac4c3a9b443741a9da71f03",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/10866-17597-20220-66ce718a3ac4c3a9b443741a9da71f03.png"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "9e7bfd76fd82a146ccc2003959996721",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/11073-3514-14538-9e7bfd76fd82a146ccc2003959996721.png"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "6d719aa0a42fc254d02477300fda0394",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/12962-1326-7465-6d719aa0a42fc254d02477300fda0394.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "99459078837f93e380c55a0a50854d1e",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/13305-3571-13238-99459078837f93e380c55a0a50854d1e.png"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "28980db74ea07fc760a6a8d34e280c80",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/18016-23394-19955-28980db74ea07fc760a6a8d34e280c80.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "7f4f05a924e677893c90fcadd30f52b0",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/18216-20581-19937-7f4f05a924e677893c90fcadd30f52b0.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "f780e582f9dc1dddb2e17a4b3fdda076",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/18473-12055-4335-f780e582f9dc1dddb2e17a4b3fdda076.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "23dc113e179a1c83b344cbf77f895eba",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/18927-30956-17198-23dc113e179a1c83b344cbf77f895eba.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "0081116ffa28f94a3437f5229b1ab3d7",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/19976-13232-19579-0081116ffa28f94a3437f5229b1ab3d7.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "c0a3bfa8c95dfe924effbe61f050484e",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/21354-12350-2180-c0a3bfa8c95dfe924effbe61f050484e.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d0501825bdd51b24a3572ea30a420156",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/2235-19898-23783-d0501825bdd51b24a3572ea30a420156.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "b314fcc5920a93f3c1e890232c9f1319",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/2382-20688-14854-b314fcc5920a93f3c1e890232c9f1319.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "6aab8c01df0c60bf98fcae883e459d27",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/25048-23884-25425-6aab8c01df0c60bf98fcae883e459d27.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "6af7e73fe856e663d1ee30df1d16b336",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/25075-15894-5090-6af7e73fe856e663d1ee30df1d16b336.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "7f72db663c5df13de9cace21e1e9f2a2",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/25380-16775-4154-7f72db663c5df13de9cace21e1e9f2a2.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "ca36d0d5a936c9ca7f60e4dc473ef645",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/25861-5232-12702-ca36d0d5a936c9ca7f60e4dc473ef645.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "390c781acd589b5c16b3368aeb3a773c",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/26784-24103-32649-390c781acd589b5c16b3368aeb3a773c.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "3b52bf4777bf676ee7db6bb7c8de75b5",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/29280-29883-18867-3b52bf4777bf676ee7db6bb7c8de75b5.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "9fc527abf7ba5024fbf299592d218114",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/29795-31371-18693-9fc527abf7ba5024fbf299592d218114.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "a74e0147966048f4376e4d2339c966b5",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/30773-17780-10424-a74e0147966048f4376e4d2339c966b5.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "c12387bfe88943d4d25e3a79dcc15407",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/30875-10094-3713-c12387bfe88943d4d25e3a79dcc15407.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "26e3c9e51a01676a68ead2c29503aa6f",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/31718-28891-16887-26e3c9e51a01676a68ead2c29503aa6f.jpeg"
     }
   },
   {
@@ -1072,11 +757,326 @@
   },
   {
     "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "b610d082dfb120f545955a15e5625f15",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/4431-8576-27058-b610d082dfb120f545955a15e5625f15.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "e7885af3c3b414a1e5a578ac02ec303c",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/5917-16133-7679-e7885af3c3b414a1e5a578ac02ec303c.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d0882669f105513efa6cb1604206f63d",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/7584-6751-24617-d0882669f105513efa6cb1604206f63d.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "835ccbff817dc02879810bb4391c59ca",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/8155-28114-2315-835ccbff817dc02879810bb4391c59ca.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "2b57ca42ec5fb98ef8f8f8a0ba790786",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/844-1323-13026-2b57ca42ec5fb98ef8f8f8a0ba790786.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "db7905d84960e3c47e098c2efaa1335e",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/dog/8672-514-20446-db7905d84960e3c47e098c2efaa1335e.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "042775cdeb6cc6b267fa10d4e23ac61b",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/11371-6487-31152-042775cdeb6cc6b267fa10d4e23ac61b.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "763d46319f7a27b2a7d3adc181beaa2b",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/11904-31660-19050-763d46319f7a27b2a7d3adc181beaa2b.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "7b11b6c10e77000a71997bc7ecbd9bf8",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/12280-28739-9882-7b11b6c10e77000a71997bc7ecbd9bf8.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "e6fd99b65128fd0c7744dab9e6a5246e",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/12930-7920-25387-e6fd99b65128fd0c7744dab9e6a5246e.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "7000e310939f828645edae3657d06044",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/14331-29482-22779-7000e310939f828645edae3657d06044.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "0333af15059559734ca2b2ce4a338123",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/14665-8799-2463-0333af15059559734ca2b2ce4a338123.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "9d94c474150a0b7e6f937ccd9a81cc1f",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/15126-16404-21429-9d94c474150a0b7e6f937ccd9a81cc1f.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "dcb7174d11e1a6f1f1da5c5ad01554a3",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/17475-11205-19876-dcb7174d11e1a6f1f1da5c5ad01554a3.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "7d973e8b82625c6421418d9482d198ba",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/1779-9700-21685-7d973e8b82625c6421418d9482d198ba.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "7f8c292f1fd890bc8ca94b9ede22f28d",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/2111-10488-1915-7f8c292f1fd890bc8ca94b9ede22f28d.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "36604297c7fa95f9e7e3094fe4f8a4bc",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/21134-24623-8419-36604297c7fa95f9e7e3094fe4f8a4bc.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "6f3bb2eccdff5b53b4a5e8153625da0d",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/2309-15580-15688-6f3bb2eccdff5b53b4a5e8153625da0d.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "cc2ac406acdab6a5fb5094f29fc59d3b",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/23163-1145-20581-cc2ac406acdab6a5fb5094f29fc59d3b.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a04838242f32501d8e71c4f029b03934",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/24023-30767-768-a04838242f32501d8e71c4f029b03934.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "5ae1ef3461628f193b22bc7583a00f78",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/24113-18612-6464-5ae1ef3461628f193b22bc7583a00f78.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "9feb7d1e96feb92c2c041b66482df54c",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/24796-32229-15857-9feb7d1e96feb92c2c041b66482df54c.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "09cd23091ac5637ea86f02be6198ac20",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/2674-1787-11200-09cd23091ac5637ea86f02be6198ac20.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "99c0784757a6a2eda51ce4f8f9915802",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/27061-17303-12913-99c0784757a6a2eda51ce4f8f9915802.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "05b45ef0e8c4f8782bbf6eb232cc836f",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/27425-17009-1430-05b45ef0e8c4f8782bbf6eb232cc836f.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "e4442801e0e365d12b6aacbd30edfcfa",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/28308-15318-28439-e4442801e0e365d12b6aacbd30edfcfa.png"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "d1dc5638356b452a559db6a28718c34f",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/28594-6478-26956-d1dc5638356b452a559db6a28718c34f.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "3fe4cba28db8779e649e4257ad319298",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/30743-14375-15875-3fe4cba28db8779e649e4257ad319298.jpeg"
+    }
+  },
+  {
+    "annotation": {
       "label": "muffin"
     },
     "data-object-info": {
       "md5": "eecbbdc7fd6e3a2bf9f1646b4fe4e5fe",
       "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/3925-138-18834-eecbbdc7fd6e3a2bf9f1646b4fe4e5fe.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "9c36fcd3a7726d93534b9680a6f304df",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/5406-4084-8878-9c36fcd3a7726d93534b9680a6f304df.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "042400a8549adbc9807fa4a873687563",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/6162-26345-3783-042400a8549adbc9807fa4a873687563.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "d588ce157b56fef44ebbeecbc1a8c12f",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/6809-26130-2195-d588ce157b56fef44ebbeecbc1a8c12f.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "f36d00ba84c5df52bbcaffb0816db7aa",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/7085-7142-8273-f36d00ba84c5df52bbcaffb0816db7aa.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "d10bd095f5953c7f56dcc52c317589d5",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/7592-19016-19406-d10bd095f5953c7f56dcc52c317589d5.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "545e8a7c4d88741b84768e023d5eab59",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/7776-19755-12897-545e8a7c4d88741b84768e023d5eab59.jpeg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "3409d013b116c57cdc74c4360b5f4e88",
+      "path": "s3://ldb-public/remote/data-lakes/hackathon-starter/labelbook/muffin/9195-5738-13664-3409d013b116c57cdc74c4360b5f4e88.jpeg"
     }
   }
 ]
