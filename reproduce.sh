@@ -1,7 +1,12 @@
 set -exu
 
-ldb init .ldb --force
-ldb index s3://ldb-hackathon-team-6/clean-up/ --format annot -p single-file=true
+export LDB_DIR=.ldb
+
+
+ldb index s3://ldb-hackathon-team-6/clean-up/train --format annot -p single-file=true --add-tag train
+ldb index s3://ldb-hackathon-team-6/clean-up/val --format annot -p single-file=true --add-tag val
+ldb index s3://ldb-hackathon-team-6/clean-up/labelbook --format annot -p single-file=true --add-tag labelbook
+#ldb index s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/ --format infer --add-tag kaggle
 
 rm -rf dataset/train
 rm -rf dataset/val
