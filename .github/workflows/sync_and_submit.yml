@@ -46,14 +46,14 @@ jobs:
              accept: 200,201,204
 
              # Headers can be passed through json object string
-             headers: '{ "Accept": "application/vnd.github+json", "Authorization": "token $GH_TOKEN" }'
+             headers: '{ "Accept": "application/vnd.github+json", "Authorization": "token ${{ env.GH_TOKEN }}" }'
 
              # Params can be passed through json object string
              params: '{ "param1": "value", "param2": "value2" }'
 
              # Body request
              # Apply only to POST|PUT request
-             body: '{"ref":"main","inputs":{"data":"s3://ldb-hackathon-team-6/repo/$GITHUB_SHA","desc":"$GITHUB_SHA"}}'
+             body: '{"ref":"main","inputs":{"data":"s3://ldb-hackathon-team-6/repo/${{ env.GITHUB_SHA }}","desc":"${{ env.GITHUB_SHA }}"}}'
 
              # Request timeout (millisec)
              # Default: 1000
