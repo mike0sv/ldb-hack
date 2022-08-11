@@ -1,0 +1,37 @@
+name: sync to s3 and submit
+on:
+  push:
+
+env:
+  GH_TOKEN: secrets.GH_TOKEN
+
+jobs:
+  sync:
+    name: sync
+    runs-on: ubuntu-latest
+    if: contains(github.event.head_commit.message, 'sync')
+    steps:
+      - uses: actions/checkout@master
+      - uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          AWS_S3_BUCKET: ldb-hackathon-team-6
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: 'us-east-1'   # optional: defaults to us-east-1
+          SOURCE_DIR: 'dataset'      # optional: defaults to entire repository  test:
+          DEST_DIR: repo/${{ env.GITHUB_SHA }}
+  submit:
+     name: submit
+     runs-on: ubuntu-latest
+     if: contains(github.event.head_commit.message, 'submit')
+     needs: sync
+     steps:
+       - name: curl
+         uses: wei/curl@master
+         with:
+             args: '-X POST -H "Accept: application/vnd.github+json" \
+                    -H "Authorization: token $GH_TOKEN" \
+                    https://api.github.com/repos/iterative/ldb-hackathon/actions/workflows/submission.yml/dispatches \
+                    -d {"ref":"main","inputs":{"data":"s3://ldb-hackathon-team-6/repo/$GITHUB_SHA","desc":"$GITHUB_SHA"}}'
