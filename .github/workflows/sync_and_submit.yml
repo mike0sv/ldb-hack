@@ -31,4 +31,4 @@ jobs:
        - name: curl
          uses: wei/curl@master
          with:
-             args: '-X POST -H "Accept: application/vnd.github+json" -H "Authorization: token $GH_TOKEN" https://api.github.com/repos/iterative/ldb-hackathon/actions/workflows/submission.yml/dispatches  -d \'{"ref":"main","inputs":{"data":"s3://ldb-hackathon-team-6/repo/$GITHUB_SHA","desc":"$GITHUB_SHA"}}\''
+          args: "-X POST -H \"Accept: application/vnd.github+json\" -H \"Authorization: token $GH_TOKEN\" https://api.github.com/repos/iterative/ldb-hackathon/actions/workflows/submission.yml/dispatches  -d '{\"ref\":\"main\",\"inputs\":{\"data\":\"s3://ldb-hackathon-team-6/repo/$GITHUB_SHA\",\"desc\":\"$GITHUB_SHA\"}}'"
