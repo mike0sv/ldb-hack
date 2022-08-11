@@ -29,6 +29,32 @@ jobs:
      needs: sync
      steps:
        - name: curl
-         uses: wei/curl@master
+         uses: indiesdev/curl@v1.1
          with:
-          args: "-X POST -H \"Accept: application/vnd.github+json\" -H \"Authorization: token $GH_TOKEN\" https://api.github.com/repos/iterative/ldb-hackathon/actions/workflows/submission.yml/dispatches  -d '{\"ref\":\"main\",\"inputs\":{\"data\":\"s3://ldb-hackathon-team-6/repo/$GITHUB_SHA\",\"desc\":\"$GITHUB_SHA\"}}'"
+             # The target URL
+             # Required: true if custom-config is not set
+             url: https://api.github.com/repos/iterative/ldb-hackathon/actions/workflows/submission.yml/dispatches
+
+             # The request method, basically it's one of GET|POST|PUT|PATCH
+             # Default is GET
+             method: "POST"
+
+             # List of response status codes to be accepted, else it will set the job to be failed
+             # If more than one value is needed, you can use comma(,) as seperator
+             # In this case if the response status code is not one of 200, 201 and 204, the job will be failed
+             # Default is 200,201,204
+             accept: 200,201,204
+
+             # Headers can be passed through json object string
+             headers: '{ "Accept": "application/vnd.github+json", "Authorization": "token $GH_TOKEN" }'
+
+             # Params can be passed through json object string
+             params: '{ "param1": "value", "param2": "value2" }'
+
+             # Body request
+             # Apply only to POST|PUT request
+             body: '{"ref":"main","inputs":{"data":"s3://ldb-hackathon-team-6/repo/$GITHUB_SHA","desc":"$GITHUB_SHA"}}'
+
+             # Request timeout (millisec)
+             # Default: 1000
+             timeout: 1000
