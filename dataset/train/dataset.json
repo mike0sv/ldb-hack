@@ -1,6 +1,4974 @@
 [
   {
     "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "4675fb213f81c58fffeda7a9a44bed73",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000000.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "85c7fbf6894315c1d21cc9665189f0e4",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000001.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "fa6ae9435415bd698c6d2bc336846048",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000002.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "ea6ffd024a8a223bbd3a6d1b8998f33a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000003.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "9e08cfe0c5e4892c24f018c6d5749d1f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000004.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "85b1b6be57c584f597817032606a616a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000005.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "640281727751ace8ac1f7cf0b3ede654",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000006.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "b3df47a7dbc9d6163f009b4161e7891b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000008.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "e574608df28bdc2ec719479589bc6b91",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000010.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "f311619cfc3e82ed2b6c371163dba8de",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000011.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "ce44bf80e41d33e01c852185dc673f21",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000012.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "40fbd43c9bac3a0e6f5a79a86777a902",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000013.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "92283bbe009402aacde26414c47be517",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000014.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "438877b0e575224b59ae439e06e8129a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000015.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "fbf4ebbd71b125bcaa7fb830a79ffd0d",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000016.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "f029e13a411c87f61d86d220d3b4b82e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000017.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "ebf96e91a57eaca09147d02247e93c17",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000018.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "17f70c67eb40d5b3f05e4e6a9ab468ca",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000019.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "283a89dfb733e1fd685e2672dfd619e4",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000020.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "9291d7a38e8adb46070e80b649ddd0dc",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000022.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "8903170f83142f37e517b8e3a71f743b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000023.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "ed28055840a71c5132cee96d44a1da6c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000024.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "da3c22e0c5c981b789c9c9bc1e973b76",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000025.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "01c777c4f811027ee0a7845f25032750",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000026.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "489a4a4bdc4c3a6a157e98517651fca6",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000027.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "7efa91d27232325dae2ca46c299460ca",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000028.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "5d7b120f41a56d2ca65466887333d383",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000029.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d839f54ff95f82250984566be362064d",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000030.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "8d8dca1d8751c8b9caef179188b4f70c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000031.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "fa90a54af2fb7b1d92844c2f5cadec43",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000032.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "7f08a537c60c8ac40368b0f669b1dcb0",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000033.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "f2b91bbc486eba07962081de7d9b7ad5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000034.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "e728ee99b353b369b308b16f5ef0a34b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000035.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d1405ea30f5299268219215de9de81cb",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000036.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "a7ad9dfb5968f71cf6a0715e6bee4e6a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000037.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "ac4b9f101da19d3db53c501d3fc381a1",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000038.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "23735deaa1ee45bc3b32ca0f1848b8c6",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000039.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "0da8f2392c990ee35528ab58b439ad6e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000040.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "a26e63e78809efbed70e4c7c7d60daf8",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000041.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "82b297bf93e117a0118f44ae97aaf204",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000042.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "abb8309928db48f33d9333f37084dd4a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000043.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "a193f82e6d02c2e9ed68d2a03ff1c612",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000044.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "c5d7180a4cd32eaf31c128db47f78cde",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000046.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "e83b80226cf060f4d279ba61459db0bb",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000047.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "10cc0f46e04c6ea6f5898fc42d5b906b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000048.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "7fe53e6ae00e2b5c16047fbb8b90851a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000049.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "4e10ebf54ad94ef58af13a42dd7455cb",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000050.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "47bde94acd17fe10c448d340d4a0300a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000051.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "7708a29453c8a6ec621c60b9054dbb90",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000052.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "2573396871a04e1909c87487bf47e5ca",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000053.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "e2f9135899efcdd69824b153ffb522d3",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000054.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d768e8d2896e42a25043bb2499764f84",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000055.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "c8bf1ad553333271ba9ba63f89b770d2",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000056.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "41c2d907d7a55e45e8bc9ce424c17714",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000057.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "ab43b03223d3c082a725afc5ec367761",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000058.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "b1bab3210cbbc9310a60724da876c110",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000059.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "72c03b40b26d5e064137e2a8ad50f0c3",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000060.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "855d43515443afec667fcd1abbdcf700",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000061.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d9c07692cc75cc825a1080efc5db54b1",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000062.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "c9c7e38ad6a8bb96a42ab640e95b8e9e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000063.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "188920049140bc245315b741782d083a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000064.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "675af8e89978c5e422da68bf6611cf00",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000066.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "43b10661cfc67caaa057fb172a047003",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000067.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "43a401830b1177069b9578239a79b2bb",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000068.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "be11f813cb1435cc418d895875c705f5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000069.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "ebcc32d0f0ba99ac5e8a2ddb3d09bc61",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000071.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "bf9b1cfbe6cfa2ecd576d14c0d86ff57",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000072.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "eea8fbc3c1537874cbf6d1d13f8c1328",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000074.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "55ae80c51502f91979cdb4be6cbf27b1",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000075.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "b4da4aae3eed24b1a80f3f411b8b7fe0",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000076.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "fec75736a52601f0b36fce5749e848fa",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000077.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "b51c7c9312cb9247239da8c541315c23",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000078.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "137b06874214b41c02e15452a5927c2b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000079.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "4c02565175cd23d2c56b9e05556ac9ab",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000080.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "58432b08faa689b8a5f238dbbd84c20e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000081.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d7a9995438206cd3d23bea102af3b209",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000082.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "2693002f550981a93200f8feac4bc34a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000084.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "77421c34166bfb07d60ae954e30780de",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000085.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "a26c84c052834286bc3bda758812ad11",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000086.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "cf5ca6942e9f8bced7f47d2e81434547",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000087.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "7129b3a0666aa432d538a968c3852547",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000088.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "b405183b8e9975fe63e25202f82c7fd1",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000089.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "f05c47f3879c3158d9a3dc64734b0634",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000090.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "1cc3e6a20c022d64837f734ef62268a6",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000091.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "34d5306b79c4cd9e947ad810474af831",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000092.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "514fa4140fcfadc76632cbcc314982dc",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000093.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "c3f45f8b3ea1bb5578a66c2e32bf85b2",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000094.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "bc737716b6c3406c9b5d6dd0171afcf5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000095.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "7147245136c617b3778e26c51a396c96",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000097.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "8a1887b3063ca5896fcd4f6e54e6c4ba",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000098.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "3a5c3ded2fa9f4e1073234ef2ec77871",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000099.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "dcc06955c720eca0baad8fc782a8a098",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000100.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "2edca7ccd0b0fd724fb441062ced3bb5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000101.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "e7050d06b53318ae32d2626a1e0a0bec",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000102.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "8c46136345edaf5ff3fc73096cca8cb2",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000103.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "f01a75148f40d95222c940c9a9575a28",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000104.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "8beffa8699aaa2c026c4834f4176d1db",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000106.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "7f49e8c29d7a7ddeadcf7d56b021da82",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000107.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "847016c8574e887854c8707f5b68e686",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000108.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d3a131c883729dfffe040b2aca4f6048",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000109.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "b69ee54bb79288744b26560d47ac286c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000110.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "20532790bb35ac6defbf60e5ea09f0b4",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000111.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "004f6c974fc87dbf57e21c8d37c7e45c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000112.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "782185a6afacf4b883a54c5f753e898e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000113.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "8e7cf4fcdbf96ae5a5a32291527ba558",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000114.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "8f0d511915aedc3ff22a79e099451f7f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000115.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "c6292c3c4108ab722ea9b55374d078b5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000116.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "2f3e6b6b268d53c79e66f4be1cc45d51",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000117.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "82b06e614c62aa0883e52103de05c0fd",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000118.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "29ce2437280dd03fdc72c76ab237b511",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000119.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "62b63379559c01efcec672eee624a811",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000120.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "a0ab1d30c90f692d2d4f00155fc09826",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000121.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "ad85b406e1967d5af3ad5548f2b57747",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000122.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "a9c93302ed4cd9c96c3fd54400d2f85f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000123.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "eb9d46affb92bf96c64cd5704ed0fbd9",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000124.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "3180bf9e2e441faf5af592163e8b1e2d",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000125.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "0cdaf73ce5660021636d336ddc39e507",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000128.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "7e276fc148796b8d7df4721440051116",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000129.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "3e7d3b1abd69d532e5f090a162aa40aa",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000130.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "2b82557114af9cbd7e63df23932456a0",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000131.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d0c58873fc8816ec771fda5185c799e7",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000133.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "431fc360b10dc1a1820af94a2c095a7a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000135.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "02fdfc5ff4403cfd28e834d34cc0e1dc",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000136.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "298b43dd55ba5df9f0b08eb9205acf4a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000137.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "39adda2693099044cdd6a36c83588da2",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000138.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "54a0e709f20fd4a188a141012fb15e50",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000139.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "3955e382a0d8faa867fb4f77f1387d8d",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000140.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "fee24ae48fcf3b21e252edba131c7bd8",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000141.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "3312a585d4b3cd300d9cde4aeddccbb9",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000142.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "dd075a161a1ea2a8ae0e12d59becb8fa",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000143.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d69a8ffc08c2cb382eba0a1c827590da",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000144.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "c7f60201092f7de8c7de48931638c4b9",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000147.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "0335fccf535fc0f0d74c3c3cb792e7b0",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000148.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "2874bc1162d28d9e8e2369c27676fb3b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000149.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d6d4df7bfacf6239f09c7f262b001bff",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000150.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "29940d73387c1a85c4ef237dd1778406",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000151.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "f566f49c5a258858b56c595cea785b66",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000152.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "7f2dd5fe05f0e0ccd9a0e89394aa934c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000153.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "039c0d64e712541fb129e570214e6389",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000155.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "55854ef6716da9546aeef4c611c89527",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000156.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "2c1f3d4de18815dd0621d2ba7cca1b9e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000157.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "944af2433a40371a89fece0e92f93b46",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000159.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "1c6bd969680ffba8c3eaf2b02b0280f3",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000160.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "cafd46393f8247a6a536bff1fd82a601",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000161.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "920805604b6ef3820a5aae16bfe47a95",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000162.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "c1c3857b629ebd814bd446b9015bb102",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000163.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "2027715c656d14d970b2475af2c59b05",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000164.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "153c55993fafb32c21f945a91b4e7138",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000165.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "5c8b81564672a72244050025ae0bf124",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000166.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "4ed6883e7dfca51e7f923c3085359d5b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000167.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "f61394412328a755dd847bb36e6498bb",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000168.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "616080a9564cfbbee2205e48a5f9c1ec",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000169.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "246c95a62b649c1251bc6d967e9cd536",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000170.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d9b71ef91368cae643d8d7d743056568",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000171.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "575a477f4201fbd2dce0882550f6902f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000172.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "b5bea4d0e6125569925b1ce9486bac01",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000174.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "1f6b5214ac32b4f2e4f8ff4402f2e4ea",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000175.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "01543b17060ea0feb12b03e2381bb4eb",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000176.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "3166f73c2efbbd9dbf26aff0c02a86ba",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000178.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "9b5f55ae924387f2ba05a6283367ccf0",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000179.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "cb135769097b867b10a866cc2005c7d9",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000181.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "6c0ee7d7541b90a4aa4269934c76d66c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000182.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "32027145bdfcef3feaea681996773d5c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000183.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "c8fb23ed093d491d15e4d6f860ca6854",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000184.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "264d3db0c6c7112ff05ee0f11da5e0b1",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000185.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "e3b73856a6ac597b1751dffd886b47b2",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000186.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "762d083c49bb8b108db5f8b8400495cb",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000187.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "dcb57a0d1bce5e8d4aed8aa0fd64a804",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000188.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "9deabb25ea63846328c07004d3f8fc69",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000189.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "995d0ba808f5c34f122f9f095e661bab",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000190.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "5e0c942183e9fc625332c11c2fd84f02",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000191.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "1698ca796400d486a782f71637612d5b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000193.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "0d1dad607a1b6246e54fe2ef0a705aab",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000194.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "7bfc9b338dd44a8174e08facb7b76426",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000196.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "a407230c7a41893651411003d1d3ce60",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000197.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "af9b6edc15435395456eaf7eeb76e508",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000198.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "030f3cc824e9aebf60fbf5745dc4c99c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000199.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "849596d31c78966c944994f8838baf0e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000200.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d05663eef5326f60c8ce3ccf18038981",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000201.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "e1c381bb86c02b3a74cbb3e3ea297528",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000202.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "67e4a5b5bc19d859ed4d16b5737d764a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000203.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "a7ae7a4284bc1975f349d714ff8fe8c3",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000204.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "124f3f4ee91b72d620a32b9b8db67cd5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000205.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "c1ba362cac18fa7e3404f558e7fcc8a2",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000206.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "9378142fbd641cc4c083ce2b4b34baf8",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000207.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "c64ca67e387f426750dddde2f0068e69",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000208.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "242d69c39552f433e607611b604ef1e6",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000209.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "015a5fdd793538fafb0426afffd23b58",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000210.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "37f3baa6843a9d8337ca27ccee0550ed",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000211.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "7c4895561517632f0af2073067a15167",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000213.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "71ed6adbb9fbbbebef810a8ad888711b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000214.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "1e75b54c49c58a19152aee717ad63c27",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000215.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "cee42dda1629b33cfef57a5f41494fbc",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000216.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "5a44ce95f93fc9b4859d0a06105908b7",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000217.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "760dd3b460a0e00c939a5cb2457d9104",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000218.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "51a69705bc45ab96c82e334bdeebae36",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000220.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "2e0ad529a0f88413271550abf6ad2946",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000222.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "8c45420b03a069ffc698cb9b64d1c667",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000223.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d0a771fde2937e700712d22c8f9e5db7",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000224.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "52d8d45cb72e901aeea5ba9d33c9d32e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000225.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "3d8e4d5d9bc7b3dd9dec28b9b7990ea6",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000226.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "98fd0b5bd0f96a068dd9fe8b51b6f876",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000227.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "58c3e0c2f1054f6818858bbb478aaf1c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000228.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "995a51f0c42345950dd1095a873e9a09",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000229.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "1caa2e01e33cae745c2d1af015628c37",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000230.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "94236087096c6268683c6c3400439da0",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000231.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "81f0f5a0fbbbea2d1138716336d583ce",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000232.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "829a7aaaa5f7d830458a508e8e0342c6",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000233.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "da9894b17564a054d983cc80c3d80a0b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000234.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "fa3deec074569e632b65aea770a34cb8",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000235.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "2317c5be6c1877cb6cabbba11add30e4",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000236.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "02494161d0b44f41be82b6e4dbc118bf",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000237.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "0a8a0c4bf339d2220bc9047ebf633bfb",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000238.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "a0b48dd0cae9ea1ef2dc9fcbb776c7b1",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000240.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "9f435a747a98d7497cb0b0924d1e8f5c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000241.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "761ee03d2e6432a7d5cbf6ff3cf17355",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000242.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "cbb966b4d61c88b95e6cfeea7e87ec12",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000243.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "3015d6b00bae7bf3194b2656a185888f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000244.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "492fb23d3a762885fede26d434f15da0",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000245.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "8365164897fa8d6aed371b95c119fd24",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000246.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "7cacab9758675bb5e7e25950df5eb8b6",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000247.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "13c32cc20785903e572121ab4ecbbfbb",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000248.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "ae673eb2ad0704ce055404b41ddac0d4",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000249.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "7cb4593136fa83fc3c026769cab2fdf5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000250.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "940d915ea68cbe2cd19d604d56254223",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000251.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "92708bc8bb6cee8f1c49604ac370a01a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000252.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "f0f89da1fda3d988e415c4c8f4b32272",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000253.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "b39d747fa933cd0c8c02d7b45fa4441f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000254.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "6218de1ffca346073beb18334579b304",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000255.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "3e7acf48b2ddebe638e70dc723ca3fe6",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000256.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "4fa4dd5b220d4935a9fa62ccf70332ca",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000257.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "9070ddf4a338264e3d8abe9bced0a199",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000258.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "f7d9c7bdce15f034a4ca6b4f7d00cb66",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000259.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "8ef9f27042beb4fe5a7efa3283010302",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000260.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "326d087f7e10d8ad9792eedc185ff307",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000261.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "4232d684f14863563b9a684d14a23fc8",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000263.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "98d07b040536bcd172d86161db6c0234",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000264.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "c2c868c3492b158a21be908948e2a0d6",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000266.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "b20bed9a5871cd5428c7243feddb171e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000267.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d697dc3253bec55fe5cf7258cd68f803",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000268.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "6d8a8a489d90b000951dac9fad10aad2",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000271.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "ad66e54bfa06a4dabdcdd42ba751bfac",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000273.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "f4b9d46d4bb626bc585a6f3a13c61cf8",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000276.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d975e269ab80f533619ca52429eb97d5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000277.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "ab69472cbfdf74b2c4219c4e770db2f5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000280.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "80b2f7ba6e5b14b128de943cc3a2c090",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000281.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "673efaa5f8ae714d8e2f6aab8d58f9e3",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000282.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "67bd9337d261870e9099e638117fad4b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000284.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "7d8e9f6d4438020f13860a44288fb347",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000285.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "48f4c513aae1a2c4c9120126e17555a5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000286.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "14d892ff7f1ab6fd719d23294d3fd621",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000287.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "0bb0d352d356e4367f00b2dc17ad37ab",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000288.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "5f8e472933d404a1dbf548aeb83c1223",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000291.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "24cd8756bc535d7cfed04cf61ea8a192",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000292.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d21a355764b40b1903fd7ae72df11251",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000295.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "2aae39e173110cae0c59887155da8fcc",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000297.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "5eeddc18ee5bc85ca63e0fdf2723ea27",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000298.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "92af0069c96523dd1e6543334dd3d6d9",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000300.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "cceef2b9cdd9b55d64b6187f14b8cc24",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000301.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "9857b719aec9b391e0b1952160c28bd8",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000305.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "95e9903ae48f142c3df46c51f4e6ff44",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000306.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "cb629a5021ff0e24673d2335ec75fc00",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000307.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "f2d56c748381a6559e6dc629976d8d37",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000309.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "a8049e77a053240257d9ae6434bda28a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000310.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "ff8740a624fc23aa2b321c7e8599fa76",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000312.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "14fcb85f88b2e9c7cb026678b94bdd13",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000313.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "39366ab1bc7f7c547c4e6f5e1aa51486",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000315.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "61543814c53c5278a7d4c5f0b3a9806e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000316.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "8947e6a23802c1035bcfff1d003759c0",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000317.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "717e54650924d70a54ccb34dde86d816",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000318.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "936c1e52e9d56ffb3b1df010ac8c04c1",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000319.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "b7bfdedc059ba9825fa80598d9cf7bf7",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000320.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "c8d30fe7f13761b747ccc97c5e836642",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000323.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "d544240a41fa13a9508bcdbd028e48fe",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000325.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "cbc531e6302597862706753fb81ad409",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000327.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "6eefb04f08d4fad75dedbd3ad5ceea10",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000330.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "63b7aff81257471cc8f29a5df49e31e8",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000331.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "b0045e7e9b3bc54730564184abc8fe25",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000333.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "dog"
+    },
+    "data-object-info": {
+      "md5": "474b3538240e97f0e1eb46bdc40cea99",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/dog/00000335.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "37fb5e5199aa57cddcfe57a701a83845",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000001.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "d3ec3e3d878ddf38a857e9e15b03cecd",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000002.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "76639e36d560b1f8a7982432c7a61b81",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000003.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a05c1330be1b60522749003e0f099d5d",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000005.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "8771afd8bc05928c5925af25dc0d4b31",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000006.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "60907131f03911a5c0f3421d455efed5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000007.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a5f5fe7904425fed7f9e95f7686c4235",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000008.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "66f69b112305471d5870117d5fe4b870",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000009.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "e8a305181166bd82314d029e351d28d4",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000010.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "4903c41e77526b69869e764fbf1e8a27",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000011.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "2c869dd96fbf54e404fd86f7c0ad1803",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000012.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "25f80023b20a8a305223d8acdc553345",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000013.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "836a38ba7e8c439c02e1c0033da00cf6",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000014.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "cafcf796c31a6a67824794e2040e6296",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000015.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "b12fe8dc68ab0f5b52c724e1aa17e7ae",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000016.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "4d702aabce31d53dd9116d8889dd152d",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000017.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "2212e72584f734a2e11244c031314502",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000018.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a16025a507548f091833f36bc02a9e85",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000019.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "323dc0701112febff7597472d3a4e280",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000020.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "4c8d15abc8ad824a4ff9d11253cba18c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000021.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "fc0320de9c0b78be58e8e9ed64b4fc6e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000022.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "6eb7db59061c5082cfd3347c532bded9",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000023.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "2c5f678a790ce23d6b5858818469aa7d",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000024.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "e84580d2d6271d7a0596ab4a4985b391",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000025.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "125064d0efd349e7c2e421d4f73b2330",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000026.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "65b4b1516510a7ba589e9aef83539dfb",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000027.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c267fe58ab8db0bf64bb7739ed67406b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000029.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "edb80f38fddd9947c84efa03755d62ef",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000030.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "7577b75fe6b22441e45075ab53349314",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000031.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "41d0ab3f37603cddd635012a3a584e8a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000032.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "6be4a7a6f9e29e582bf9d792d6135625",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000033.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "83ffccbd2b4f6a0e4546adb00f8c9d23",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000034.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "b54afbab03539bc815d73488d6eb7478",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000035.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "0fe6add2dfb7eef235964d2ebdee0e5c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000036.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "ceb1d0b70f220c2106db366df657c7b9",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000037.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "3e597df78a571bc9f871348a54c9046c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000038.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a6d19fe7655809399a83ce02b87dcb5f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000039.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "01513d383639dc47ff1a71a30e71b08a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000040.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "e4e7931a1e5985f45e0b5dd6b7fc63a8",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000041.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "0d8c5eecff5434bd47afc1d6898cf429",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000042.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "8fbb2df12de6da5e4af74f3c3ea6b11e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000043.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "2a222cb2251db2029676b1a52afba694",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000044.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c7fab85ba413b014b22787f55c9f7aa8",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000045.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "3d5bcc67f3b764e3563b74b0bf0f160e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000046.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "0fb8e47802c24a33a0b0f468d52e9cd2",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000047.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "2b30e56af98d46fcd6e3e49265304251",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000048.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "29e58c9f85d17c64c1b54e773c6b32b0",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000049.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a8be98796c3628681cf2ecf4eab988bc",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000050.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "05f17575a4e91ccb6a65fc9d5a09d3bd",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000051.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "d52e91135badf87be98c40c23d4e8002",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000053.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "2a140b3f7b2acadf0453533d9d1b2826",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000054.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "07511f9d32b04d9e405ff04d31504e3e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000055.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "0afa320a4e6b208f3d58081e000e5281",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000056.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "55fe5c045a743b3a90af4d9a95ea80e2",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000057.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c6304749b4d68c4f52a22c2c32aaa6ad",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000058.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "5d9cad6da4fd033ef2c152d667ef941c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000059.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "0236d61fa8d6a7310ec8206537a33780",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000060.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "0a3e0bf5b61814a91a74cce1f0e742e4",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000061.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c9df8979345c591c41c7092235c46030",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000062.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "3c1398d4778553a6cc7ce3b57d82bb00",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000063.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "8cf00891df334ba5ce40ab42a8153642",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000064.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "cc2ba29e416da8e53fb8bd924396f417",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000065.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "064b89b22cc1c7ed1d6f538d29d15361",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000066.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "6964fd23d6deeff868ce6a99dbf0cfe5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000067.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "42b770511c6060064b4db502c1ac9a33",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000068.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "149b11c28fd70d6f11ef71f08132ecf7",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000069.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "69167872385da61395e7a5c8f7fcabe6",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000070.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "fcec8d536179750cd0f0389749a82f05",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000071.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "5a29f98b70b11837d83d49d17fc283ef",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000072.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "724e326bb30bec0c3889378b6358304b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000073.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "e0a012523187db6d885b4982dcc26fb2",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000074.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "691d76416004b62b3bf4a2a8924bf795",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000075.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "4153f01969a1d4d36b12194d4c70d68b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000076.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c440a71126c94f3863fce8064a3ab573",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000077.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "d78a345b3fb8a05e9821fdbd749b86a7",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000078.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "03a7b43ed3373c0137349dccdcf00b28",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000079.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "6d65e0e409cc62c79d60f4937e8b0c4a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000081.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "9d050204affab304fd7eefa550c6f920",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000082.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "89bb769d074ec13884d5ad6bd99b7e98",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000083.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "779e824d8fe855e556cb292a6b247b3c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000084.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "e4ec74520fe74a9a1f3e813278d645b6",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000085.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "17d72a68548b4c5178cf57e8affe38e8",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000086.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "26d89fc487f985b1d660a88a18d6ccf5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000087.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "f4f1ab7ec596b4ef6c68181c3038c1bb",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000088.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "38783af9718ee1d3da24bbf305ed0626",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000089.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "aa86bc30471b9174c2bb30338aae31a5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000091.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "289d0a0f77365ab5dbe13cffd7fedd23",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000092.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "4a03bfbba2cabebf24f0bf39953161c6",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000093.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "241927a26e528183937c6f7ddc379f0f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000094.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "8e1f9d5aa1b683b084ed0162f5481f5a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000095.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "0abc560cf5af827faa4cb5e969c0edd5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000096.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "f6e547e18044f8d5e015b833f6d1281f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000097.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "d902a5cc8e53b8fc802e5c38ba49d078",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000098.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "fc793ec4f93b46ad507886c537a2b235",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000099.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "831ef13ccba0becf1509cd46c4923637",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000100.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "377c7c3846da5b17b66441673f497334",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000101.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "304be0e27c6a420a7e8cf4a7a4d929a6",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000102.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "185fd48811fbdf688b0aaef6de50f8fb",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000103.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "9cc2a0d51a9d32eedb69ebe5146e034f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000104.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "732039814384dc9d49e47e33e3282dd1",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000105.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "170455040505d66a2ae7b6d8dd0afff6",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000106.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c57e19f5e5c0b0facefc17fe306df44d",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000107.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "1be2c6f25e165e356220560cbaa22319",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000108.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "7d80dbf33de8777ca39dd960e2cb3e85",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000109.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "d6cb2e6c8f3a21e352ef8fa45e27e68d",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000110.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "3ac0a58563846d5801297d2862fa1db0",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000111.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "8f701847beb6ea4621abfecaae26c62a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000112.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "aa072dd338c6ce4124005152d6cc68c3",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000113.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "3434b759196bd3f065c80a73a0578469",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000114.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "2443c8cdead10ac55b0eefc13875507d",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000115.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "5f5b9672f9552fe52f5dcab8f3d33e10",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000116.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "b3eca1e384e86a8b0bd5d3bda9ea441b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000118.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "b2b9799d8756a6017edf128fc20dc022",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000119.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "62bce942e4a006e825b773f75a59393d",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000120.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "0db5149969922456d65571477c047e6f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000121.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "001612c57c800045ed45a10fc9baa893",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000122.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "eda98c9eacbfb218432d7fab0ef4e3aa",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000123.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "04c7a1b0eb9036edcc91f9ea344514a8",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000124.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a1df488bf37e504b6ef5e09ead8235b0",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000125.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "39bb2e9d8f3fe9387289d86b052d0797",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000126.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "b5e15dafd175368d00523f67f4d25a8f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000128.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "6f2b4409bc1e30532f50da69d59ef949",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000129.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "1d4f6e910cce93edb2d17193c3bd0f5b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000130.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "db000bac510ae7fa28575f3debe31569",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000131.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "b162a76a221b1c3ae9b04fe4282dc2ca",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000132.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "df86f3ff508dd4503daf07132263f589",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000133.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "ad0367dc7c27ccc371fabb67d1e17969",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000134.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "0a6bc04e17f54a6fed2685435e8f71a9",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000135.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "631fcef37044a11874a41f4591c7942b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000136.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "60418b5573777ea3c1b6d0f5c059b6a9",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000137.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "fd351831f9ce9d89a50956e6d45c0772",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000138.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "58559dbc4659418178c11f39f41e61df",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000139.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "278ba4605e9f0e034d988c9157b9a9fe",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000140.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c11f5f1c711ff89f91db9c7858cddac0",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000141.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "50684f47b0ece59e6b2ae1b705a77e28",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000142.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "bb82d29cb1f1964d60bd9fa54b5ef78b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000143.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "bb71fc7614ddbc796802ee96d35474c1",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000144.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "1c212fb58d0eace1f0d5c482cdd0bedb",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000145.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c79176629a745fe6faa023dc6e2a4c5b",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000147.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c6d9230aebdd2b01b4e2cc948ca08c87",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000149.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "fe88d78e5bb19245275af7b05895f947",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000150.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "9dda8c46d0a87eafea3c0b6ecac19149",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000151.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "17b9900549286171b93b532fc668fa75",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000152.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a79a8a672e62c6c31c6bd28fc36a757f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000155.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "12bd41409f927eb776bcbfe07499bcf5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000156.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "cb659b3058fe2e386a6c1f2fb7bce374",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000157.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c3df361f754178cf52c8f3a8bf4c6838",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000158.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "20aae1b8f84e126e175293ef76937b82",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000159.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "7e040c71b965d25910777d4a51d03942",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000160.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "e0886e073cde1f8c6709574f0d9379d7",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000161.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "bef1dd42ff2d4b6e2012d4596512f548",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000162.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "2769882a36930b810935f26116b1b221",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000163.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c644081fd9f330c43eba730bde14e0b3",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000164.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c119ff2ef2bfeac91e71c8b89d90956a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000165.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "e40d5fff729e38a36d75cef691840e62",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000166.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "61aed202ecc1aa55ebf958b45817e0f3",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000167.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "ba918ebbfd2005a0feb3062cf09933cf",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000168.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "e5b75fd2439bf8090bda8e9041505d4f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000170.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "3d940bf11f1793e777bea0480ec0131a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000171.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "b7e299ff7e510bb9ccfeec8cbc5d5bb7",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000172.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a39c94d110af338e73f6ac0e3e813879",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000173.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "24f2c2671f4c1cb7f2cf228e54c9c61e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000174.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "00985ee9a8d8a6724ee6e656aab42581",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000175.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "52d9495cdfbd98394ac9a56eede90c1c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000177.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "b0d675d96e12d2e88d2b39e450605f83",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000178.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c092f07a4d8bc875eac98ed79e501247",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000179.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "9619195b03657d4b8a6d00b20eedc4fb",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000180.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "ee519ea39eef52a181b5b34522d3b019",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000181.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "58b104195b4acfd1eda859460d7124c0",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000182.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "4240ac1475909994b85b56a3adad51dc",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000183.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "ccdbcc537c41e688bfc54a67c5e6daa1",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000186.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a9647fab8bd235c93f37ca1e0b5bcce8",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000187.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "03ed7b5e2dd384de16c608ba288df2b4",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000188.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "d247385dbfcd0aaeffe4ccdb2263982f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000189.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a323000fce05184630a28ce6ad973df9",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000190.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "ce18f124da0f5197e38d5f90d7070321",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000191.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "0c305713947b0729503bafe14bcf35dd",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000192.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "e1b56648eea4838f6b17622feaf0cae2",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000193.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "1fbf0578c2920ac8836b62a9d11c2c0c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000194.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c6836c71d025c89771783564a99e43c7",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000195.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a146098b5e5f6a90463dda4cfe55a2f7",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000196.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "da24add855b5d91562b5f61b9e3a3a02",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000198.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "97a7a996d19076087fc7ed6445a7eb8d",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000202.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "f78737147e99894a96e337441f9d1ba2",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000203.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "2709feb44cbae7cc32d3dc9423343823",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000204.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "0ca0974da4a5a5b039238c43f78fc897",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000205.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "ced26d2d6bd5ae520f8b9683f6503392",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000206.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "05556927040ddf1860ad26e009f28833",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000207.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "2ec7e7592e94a4cdc935b1cd230187df",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000208.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "7e2db2695cdc3fa02cc9ae76801ce011",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000209.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "ca2b0ca42de2b6259c4466f1c5642bcd",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000210.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "d19f2e39179e656bb29b568f01f24679",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000211.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "e27027351e22e07765ed7a36b87041f4",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000212.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "332b271d5756c95241d5e5e4c1a45e9f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000213.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "2508774ffaf8cae9c129be9d10056fcd",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000214.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "30f5874d9d7a21c6799ee4af5736420d",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000215.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "632ad26bd2053b0c21d9a1e770f60ef5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000216.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "6cf52a25af56af126386e9ee5e9d4f02",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000217.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "96239ce25c02e1e205dde1f1918e8f4f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000218.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "023a1b35b9859227780bc293d784bb47",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000220.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "e9a784038702a2c67d54eedb4f72b642",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000222.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "4744b8dfd88ffd17f9a4d3ad1bf40ea1",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000223.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "6d5a7f7c4cd44d11a827f94e79617360",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000224.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "dbd992f7c18ae49e1dc20b6d566cf558",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000225.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a1b3ad85c7d0fbf981961eff8816a83d",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000226.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "8935e2ff30a74504cf105072be811e21",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000227.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "38866fab463c623c4bc7889718f9f3b3",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000228.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "40cff3273019525e900d2b730f47ff2d",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000229.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "3c4c4d215de969fc7433946dcb6392a7",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000230.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "0f5f140de3dad821992e007c690e99c6",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000231.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "510246be4e2698419cae25e578b03a57",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000233.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "10a5d095db509348b74222688837001e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000234.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "593cc58de02de36c516c10171380d09e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000235.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "13cbf534a38432019896735a9c2d6416",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000236.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "bead3e83e41f78089007b03ea0ac9c94",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000237.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "35f493280732962e58b98162a30b0770",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000238.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "29dcf9f5e7ed8d1f1e565f5e6d1b0fe3",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000239.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c632aa25c39fa8650391dc201368bd9e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000240.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "6ecbf429726486a14df182ad24ef1b71",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000241.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "dd5233298e71cc810c925253b7e59691",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000242.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "21869a9b8bd4fe2dae9fff31cf41905a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000243.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "30210e815a76006afafb72ec8f05f75a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000244.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "9d7e611f778dbd44b0c68cb986fb1ee7",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000245.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "929a316e5fc2e3fc702d9a549dfc3689",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000246.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "12a6eba802d2ac4fc860f8b85ada86ad",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000247.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "44c178463458ff21447116987310b1a3",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000248.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a2aa00958f673082318d1818e2801ddf",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000250.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "53b49c1a60dac18aedcd3d9318540892",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000251.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "5cbedd17e1c20472146b79b7fc578e9a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000252.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "64959f0e20693ed8e7cc3205aee9bae0",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000253.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "61560d23e4bd00fc6be2ea914f8fb565",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000254.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "735d98bce47efaf1b69943592090c192",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000255.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "cdbf1cb8d73e0534f378716ab82b93fb",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000256.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a83fb47fe395d4241bc243bdc4a8149f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000257.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "2ffe7594692451c463c2afaef38ec551",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000258.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "d0c5cebd5db1efb329cea9478c434305",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000259.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "962f7334e46955758f47b5bc8e773ed4",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000260.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "875358fac127671c7ea5738a89db1b40",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000261.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "1a4bb342f23340dfbd8486ff6634e99a",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000262.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c0b6a26db9ef8a5335de149a93a24e94",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000263.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "4a31c34cd29fce5e6deb7eb2b749e608",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000264.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "01f60adaa67b5c3ba9edb7812652a7a3",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000265.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "e231b3b36932f9530d64a5f343ad1077",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000266.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "fdd65a547014808adcb394803d7db4de",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000267.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "3684ac2102126e5292fc44e975995ba7",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000268.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "f91d782e606ae25391a01dc46852d2c1",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000269.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "cfbfe295904bbc5a275a03698eec1ac5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000270.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "48818663863f9e2d705cb958e38b750d",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000272.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "322c688d05d0eed72fa301e8ea0c4322",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000273.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "971b9b5b73fed4301ac624d35e165612",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000274.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "2efac26752fd5cdd6c99ec795e744b91",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000275.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "9c45d75e340ecbe00554eec961c0feab",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000276.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "5e9677752c2a2f5463e35d334c458173",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000277.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "3228762db5fbf95d2b6ea48000de6601",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000278.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "14c8e3dddae93617f24bc90ccd2d5475",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000279.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a3acb309f572d70f849900b61ba92b4c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000280.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "63fc9e78e06f8e9ccfecdc5f3f5e255c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000281.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "5c0748b54fd098a8b60f11257f7a9b4c",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000282.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "2606677489f20dabc99ba2afa5586f2f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000283.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "3119c5bc1ade4e51149eecb6410ceea5",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000284.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "461b968161fbf432f6ff4483c968d889",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000285.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "122b21c831044fb5855f319ff0143a06",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000286.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "bdbee9ba29631967e8734553e316f74f",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000287.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "382355fa8395a472e72074d748c87790",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000288.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "eb4ac4a0340e4c2c659a6f549bf1687e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000289.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "1fcc36d26ad6f124d3e8187d9908e656",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000290.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "4ff4a467f8c228321da133f95e51dc67",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000291.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "a7ea64c6b7c6d8f08c28fa9812cf5ed3",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000292.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "e978ac40c8d6ea6b0fe84efe2de2fdeb",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000293.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "15b28b2ab10f84cc3d5014f79c74f532",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000294.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "c32fd6f2ca40e73bd63826ee531b3f80",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000295.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "591134cc412b2b72b4d85942c436774e",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000296.jpg"
+    }
+  },
+  {
+    "annotation": {
+      "label": "muffin"
+    },
+    "data-object-info": {
+      "md5": "bdd5259e468d9c49b3e773120f48fa34",
+      "path": "s3://ldb-public/remote/data-lakes/chihuahua_vs_muffin/muffin/00000297.jpg"
+    }
+  },
+  {
+    "annotation": {
       "label": "cat"
     },
     "data-object-info": {
