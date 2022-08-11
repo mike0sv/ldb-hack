@@ -4,7 +4,7 @@ on:
 
 env:
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
-  GITHUB_SHA: ${{ env.GITHUB_SHA }}
+  GITHUB_SHA: ${{ GITHUB_SHA }}
 
 jobs:
   sync:
