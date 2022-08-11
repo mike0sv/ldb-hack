@@ -6,7 +6,7 @@ import subprocess
 import collections
 
 obj_classes = ["croissant", "muffin", "dog", "cat"]
-splits = ["train", "val", "labelbook"]
+split_weights = {"train": 0.6, "val": 0.2, "labelbook": 0.2}
 
 
 def _echo_check_output(cmd):
@@ -31,25 +31,13 @@ def split_datasets():
         totals[obj_class] = int(out.strip())
     print(f"Totals: {totals}")
 
-    # ## split what's in your ds:root 60|20|20
-    # because of ldb limit bug we'll take train last and not use --limit there
-    split_weights = collections.OrderedDict([
-        ("val", 0.2),
-        ("labelbook", 0.2),
-        ("train", 0.6),
-    ])
+    # split what's in your ds:root 60|20|20
     for split in split_weights:
-        no_tags_args = " ".join([f"--no-tag {s}" for s in splits if s != split]).strip()
+        no_tags_args = " ".join([f"--no-tag {s}" for s in split_weights if s != split]).strip()
         for obj_class in ["croissant", "muffin", "dog", "cat"]:
-
             limit_arg = "--limit " + str(math.ceil(totals[obj_class] * split_weights[split]))
 
-            # for the last split (train) - don't use limit, ldb's limit got some weird bugs, and we'll get unused
-            # images
-            if split == list(split_weights.keys())[-1]:
-                limit_arg = ""
-
-            cmd = f"ldb tag ds:root --query 'label == `{obj_class}`' --shuffle {limit_arg} {no_tags_args} --add {split}"
+            cmd = f"ldb tag ds:root --query 'label == `{obj_class}`' {no_tags_args} --shuffle --add {split} {limit_arg}"
             _echo_check_output(cmd)
 
     # untagged images :\
@@ -64,7 +52,7 @@ def instantiate_datasets():
     """
     This will override ./dataset contents !!
     """
-    for split in splits:
+    for split in split_weights:
         shutil.rmtree(f"dataset/{split}")
         cmd = f"ldb instantiate ds:root --tag {split} --format annot " \
               f"--param single-file=true --target dataset/{split}"
