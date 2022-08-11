@@ -4,6 +4,7 @@ on:
 
 env:
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  GITHUB_SHA: ${{ env.GITHUB_SHA }}
 
 jobs:
   sync:
@@ -53,7 +54,7 @@ jobs:
 
              # Body request
              # Apply only to POST|PUT request
-             body: '{"ref":"main","inputs":{"data":"s3://ldb-hackathon-team-6/repo/${{ GITHUB_SHA }}","desc":"${{ GITHUB_SHA }}"}}'
+             body: '{"ref":"main","inputs":{"data":"s3://ldb-hackathon-team-6/repo/${{ env.GITHUB_SHA }}","desc":"${{ env.GITHUB_SHA }}"}}'
 
              # Request timeout (millisec)
              # Default: 1000
