@@ -1,6 +1,7 @@
 set -exu
 
 export LDB_DIR=.ldb
+# export AWS_PROFILE if not set
 export AWS_PROFILE="${AWS_PROFILE:-hackathon-team-6}"
 
 # starter baseline - but cleaned
