@@ -40,8 +40,11 @@ ldb index s3://ldb-public/remote/data-lakes/Stanford-dog-breeds/n02092339-Weimar
 ldb index s3://ldb-public/remote/data-lakes/Stanford-dog-breeds/n02086910-papillon/ --format infer --param base-label=dog --add-tag stanford
 ldb index s3://ldb-public/remote/data-lakes/Stanford-dog-breeds/n02115913-dhole/ --format infer --param base-label=dog --add-tag stanford
 
-# google open images
+# google open images (created w prepare_google.sh)
 ldb index google_prepared/ --format annot -p single-file=true --add-tag google
+
+# isia 500 - croissants and muffins (created w prepare_isia.sh)
+ldb index isia_prepared/ --format annot -p single-file=true --add-tag isia
 
 # refusing invalid webp files
 ldb tag ds:root --path ".webp" -a refuse

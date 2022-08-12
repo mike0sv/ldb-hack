@@ -2,7 +2,7 @@ set -exu
 
 export LDB_DIR=.ldb
 
-ldb index s3://ldb-public/remote/data-lakes/open-images/ --add-tag google,train
+ldb index s3://ldb-public/remote/data-lakes/open-images/ --add-tag google
 mkdir google
 ldb instantiate ds:root --tag google --query 'contains(detections[*].LabelName,`/m/0bt9lr`)' -t google/dog
 ldb instantiate ds:root --tag google --query 'contains(detections[*].LabelName,`/m/01yrx`)' -t google/cat
