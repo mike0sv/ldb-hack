@@ -8,6 +8,7 @@ DATASETS = {
     "s3://ldb-public/remote/data-lakes/ISIA_500": "isia500",
     "s3://ldb-hackathon-team-6/data-lakes/serge": "serge",
     "s3://ldb-hackathon-team-6/data-lakes/domas": "domas",
+    "s3://ldb-hackathon-team-6/data-lakes/mike0sv": "mike0sv",
     "s3://ldb-hackathon-team-6/data-lakes/david": "david",
     "s3://ldb-hackathon-team-6/data-lakes/oded": "oded",
     "s3://ldb-public/remote/data-lakes/Stanford-dog-breeds": "stanford"

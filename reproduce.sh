@@ -17,6 +17,7 @@ ldb index s3://ldb-hackathon-team-6/data-lakes/serge --format infer --add-tag se
 ldb index s3://ldb-hackathon-team-6/data-lakes/domas --format infer --add-tag domas
 ldb index s3://ldb-hackathon-team-6/data-lakes/oded --format infer --add-tag oded
 ldb index s3://ldb-hackathon-team-6/data-lakes/david --format infer --add-tag david
+ldb index s3://ldb-hackathon-team-6/data-lakes/mike0sv --format infer --add-tag mike0sv
 
 # refuse invalid images (see verify_images.py)
 ldb tag ds:root --tag domas --query 'label == `croissant`' --path "Image_114|Image_153|Image_135|Image_139|Image_120|Image_155|Image_112" --add refuse

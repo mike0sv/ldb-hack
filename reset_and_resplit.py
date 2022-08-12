@@ -7,7 +7,7 @@ import shutil
 import subprocess
 
 obj_classes = ["croissant", "muffin", "dog", "cat"]
-split_weights = {"train": 0.9, "val": 0.09, "labelbook": 0.01}
+split_weights = {"train": 0.99, "val": 0.009, "labelbook": 0.001}
 max_objects = 10_000 - 10
 
 
