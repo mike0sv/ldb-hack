@@ -9,6 +9,8 @@ ldb index s3://ldb-hackathon-team-6/clean-up/train --format annot -p single-file
 ldb index s3://ldb-hackathon-team-6/clean-up/val --format annot -p single-file=true --add-tag starter
 ldb index s3://ldb-hackathon-team-6/clean-up/labelbook --format annot -p single-file=true --add-tag starter
 
+ldb tag ds:root --path "1944-d41d8cd98f00b204e9800998ecf8427e.png|6124-26637-18360-233356519db8b29cd8513f101cabed88.jpeg" --add refuse
+
 # personal images
 ldb index s3://ldb-hackathon-team-6/data-lakes/serge --format infer --add-tag serge
 ldb index s3://ldb-hackathon-team-6/data-lakes/domas --format infer --add-tag domas
