@@ -44,8 +44,9 @@ ldb index s3://ldb-public/remote/data-lakes/Stanford-dog-breeds/n02115913-dhole/
 
 # google open images (created w prepare_google.sh)
 # alreay in David's data
-# ldb index google_prepared/ --format annot -p single-file=true --add-tag google
-ldb tag ds:root --tag google --add refuse
+ldb index google_prepared/ --format annot -p single-file=true --add-tag google
+ldb tag ds:root --tag google --remove refuse
+#ldb tag ds:root --tag google --add refuse
 
 # isia 500 - croissants and muffins (created w prepare_isia.sh)
 ldb index isia_prepared/ --format annot -p single-file=true --add-tag isia
