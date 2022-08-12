@@ -8,7 +8,7 @@ import subprocess
 
 obj_classes = ["croissant", "muffin", "dog", "cat"]
 split_weights = {"train": 0.6, "val": 0.2, "labelbook": 0.2}
-max_objects = 10_000 - 2
+max_objects = 10_000 - 10
 
 
 def _echo_check_output(cmd):
