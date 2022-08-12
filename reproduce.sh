@@ -18,8 +18,9 @@ ldb index s3://ldb-hackathon-team-6/data-lakes/david --format infer --add-tag da
 # refuse invalid images (see verify_images.py)
 ldb tag ds:root --tag domas --query 'label == `croissant`' --path "Image_114|Image_153|Image_135|Image_139|Image_120|Image_155|Image_112" --add refuse
 ldb tag ds:root --tag serge --query 'label == `cat`' --path "Abyssinian_67|Persian_269" --add refuse
-ldb tag ds:root --tag serge --query 'label == `croissant`' --path "croissant_61|croissant_75|croissant_11|croissant_12|croissant_13|/croissant_21" --add refuse
+ldb tag ds:root --tag serge --query 'label == `croissant`' --path "croissant_61|croissant_75|croissant_11|croissant_12|croissant_13|croissant_21" --add refuse
 ldb tag ds:root --tag serge --query 'label == `muffin`' --path "muffin_13|muffin_215|muffin_361|muffin_73|muffin_299|muffin_115|muffin_130|muffin_294|muffin_185|muffin_344|muffin_23|muffin_5" --add refuse
+ldb tag ds:root --tag david --query 'label == `croissant`' --path "1944" --add refuse
 
 
 # kaggle - chihuahua vs muffin: correctly labeled - dog (279) and muffin (273)
@@ -43,7 +44,7 @@ ldb index s3://ldb-public/remote/data-lakes/Stanford-dog-breeds/n02086910-papill
 ldb index s3://ldb-public/remote/data-lakes/Stanford-dog-breeds/n02115913-dhole/ --format infer --param base-label=dog --add-tag stanford
 
 # google open images (created w prepare_google.sh)
-# alreay in David's data
+# already in David's data
 # ldb index google_prepared/ --format annot -p single-file=true --add-tag google
 ldb tag ds:root --tag google --add refuse
 

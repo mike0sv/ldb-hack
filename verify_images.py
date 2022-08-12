@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from pathlib import Path
+import os.path
 import imghdr
 import sys
 
@@ -12,6 +13,11 @@ def main(data_dir):
     for filepath in Path(data_dir).rglob("**/*"):
         if not filepath.is_file():
             continue
+
+        # because it's convenience to instantiate with meta jsons sometimes, we'll just skip those silently
+        if 'json' in os.path.splitext(str(filepath))[1].lower():
+            continue
+
         invalid = False
 
         img_type = imghdr.what(filepath)
