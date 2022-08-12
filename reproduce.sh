@@ -43,7 +43,9 @@ ldb index s3://ldb-public/remote/data-lakes/Stanford-dog-breeds/n02086910-papill
 ldb index s3://ldb-public/remote/data-lakes/Stanford-dog-breeds/n02115913-dhole/ --format infer --param base-label=dog --add-tag stanford
 
 # google open images (created w prepare_google.sh)
-ldb index google_prepared/ --format annot -p single-file=true --add-tag google
+# alreay in David's data
+# ldb index google_prepared/ --format annot -p single-file=true --add-tag google
+ldb tag ds:root --tag google --add refuse
 
 # isia 500 - croissants and muffins (created w prepare_isia.sh)
 ldb index isia_prepared/ --format annot -p single-file=true --add-tag isia
@@ -54,3 +56,4 @@ ldb tag ds:root --path ".webp" -a refuse
 ldb eval -j --query label ds:root --no-tag refuse  --query "label" | sort | uniq -c
 
 python reset_and_resplit.py
+python stats.py
